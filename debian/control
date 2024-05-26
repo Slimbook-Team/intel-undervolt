@@ -1,0 +1,16 @@
+Source: intel-undervolt
+Section: utils
+Priority: optional
+Maintainer: Slimbook <dev@slimbook.es>
+Build-Depends: debhelper (=13), build-essential
+Standards-Version: 4.6.0
+Homepage: https://github.com/kitsunyan/intel-undervolt
+Rules-Requires-Root: no
+
+Package: intel-undervolt
+Architecture: amd64
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: intel-undervolt is a tool for undervolting and throttling limits alteration for Intel CPUs.
+ intel-undervolt is a tool for undervolting and throttling limits alteration for Intel CPUs.
+
+
