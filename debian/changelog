@@ -1,3 +1,9 @@
+intel-undervolt (1.7+slimbook1.2) noble; urgency=medium
+
+  * Dummy upgrade
+
+ -- Slimbook <dev@slimbook.com>  Mon, 19 Aug 2024 09:56:10 +0200
+
 intel-undervolt (1.7+slimbook1) noble; urgency=medium
 
   * Initial release.
